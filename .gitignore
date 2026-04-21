@@ -3,3 +3,6 @@ node_modules/
 --pycache--/
 *.pyc
 dist/
+".env"  
+"*.env"  
+".env.local"  
